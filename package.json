@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/orky161-library-ms/library.io-libs/issues"
   },
-  "homepage": "https://github.com/orky161-library-ms/library.io-libs#readme"
+  "homepage": "https://github.com/orky161-library-ms/library.io-libs#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
 }
