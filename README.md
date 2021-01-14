@@ -15,12 +15,12 @@ ADMIN
 CLIENT
 AUTHOR 
 ``` 
-| Function | Explain |
-| ------ | ------ |
-| **generateToken** | Generate token with the private key |
-| **decodeToken** | Get jwt token fields (middleware)|
-| **verifyPermission** | Verify token has correct role (middleware)|
-| **equalField** | Verify token has correct Field value* (middleware) |
+| Function | Explain | ------ |
+| ------ | ------ | ------ |
+| **generateToken** | Generate token with the private key | funcion |
+| **decodeToken** | Get jwt token fields | middleware |
+| **verifyPermission** | Verify token has correct role | middleware |
+| **equalField** | Verify token has correct Field value*  | middleware |
 
 #### Examples
 ```
